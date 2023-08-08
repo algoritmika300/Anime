@@ -1,0 +1,51 @@
+header {
+    background-image: url("https://pibig.info/uploads/posts/2022-11/1669111053_1-pibig-info-p-komanda-luffi-vkontakte-1.jpg");
+    height: 1000;
+    width: 500;
+
+}
+
+naw{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu-item {
+    color: blueviolet;
+    font-size:x-large ;
+}
+
+
+.menu-item:hover{
+    color: black;
+}
+
+.images {
+    display: flex;
+    justify-content:center;
+}
+
+.d {
+    background-color: lightgray;
+}
+
+.f {
+    background-color: lightgrey;
+}
+
+.g {
+    background-color: lightgrey;
+}
+
+.h {
+    background-color: lightgrey;
+}
+
+body {
+    text-align: center;
+    background-color: blueviolet;
+}
+footer {
+    background-color: black;
+}
